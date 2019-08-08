@@ -1,0 +1,22 @@
+[DATABASE]
+data_address = E:/MyApplication/ApiTest/data/接口用例.xlsx
+excel_address=E:/MyApplication/ApiTest/data/
+runcase_address=E:/MyApplication/ApiTest/runcase/
+report_address = E:/MyApplication/ApiTest/report/
+result_address = E:/MyApplication/ApiTest/result/
+testcase_address=E:/MyApplication/ApiTest/testcase/
+
+[HTTP]
+base_url = http://localhost:8081/
+
+[EMAIL]
+serverip =smtp.qq.com
+serverport=465
+# 发件人邮箱
+sender =2855806083@qq.com
+# 接收人邮箱
+receiver =1126865919@qq.com
+# 发送邮箱用户信息
+username =2855806083@qq.com
+# 客户端授权码
+password =sdijonugzjnmddjd
