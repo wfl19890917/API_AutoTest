@@ -1,4 +1,4 @@
-import HTMLTestRunner
+from public import HTMLTestRunner
 import time
 import os
 import unittest
